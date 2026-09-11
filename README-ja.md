@@ -445,6 +445,7 @@ Awesome Mac
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - アプリの翻訳を分析、レビュー、編集するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707?platform=mac)
 * [LINQPad](https://www.linqpad.net/) - コード実行、クエリ作成、データベース探索のための.NETスクラッチパッド。 ![Freeware][Freeware Icon]
 * [Loupe](https://github.com/smughead/Loupe) - AIエージェント対応の出力を生成するアクセシビリティインスペクター。 [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - スタンドアロンのローカルベンガル語マルチモーダルメディアエージェント：STT、TTS、音声/動画編集、スライドショー、トーキングアバター、ローカルLLMエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Cocoa開発者向けに、ライトモードとダークモードの全システムカラーを表示するMacアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - クリーンなUIとリアルタイムハイライト機能を備えた、ネイティブで軽量なテキスト差分ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - セマンティックな構文とリッチなコンポーネントでレスポンシブメールを作成。 [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
@@ -961,6 +962,7 @@ Awesome Mac
 * [LosslessCut](https://github.com/mifi/lossless-cut) - ffmpegを使用した素早くロスレスなビデオ・オーディオトリミングのためのクロスプラットフォームツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 単語ごとのグロー演出に対応した同期歌詞プレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - iTunes、Spotify、Vox用の歌詞表示。 [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - スタンドアロンのローカルベンガル語マルチモーダルメディアエージェント：STT、TTS、音声/動画編集、スライドショー、トーキングアバター、ローカルLLMエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - macOSユーザー向けのクリーンで軽量な音楽プレイヤー。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [MacYTDL](https://github.com/section83/MacYTDL) - youtube-dlビデオダウンローダーのmacOS GUIフロントエンド。 [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
 * [Marker Data](https://github.com/TheAcharya/MarkerData) - Final Cut Pro向けに作られた先進的なマーカー抽出アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
@@ -1012,6 +1014,7 @@ Awesome Mac
 
 * [CapSoftware](https://github.com/CapSoftware/) - Loomに代わるオープンソースのスクリーン録画ツール。美しく、共有可能。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - 録音や音楽制作のためのデジタルオーディオワークステーション。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - スタンドアロンのローカルベンガル語マルチモーダルメディアエージェント：STT、TTS、音声/動画編集、スライドショー、トーキングアバター、ローカルLLMエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 音楽制作とオーディオ制作向けのプロ向けデジタルオーディオワークステーション。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Segue](https://segue.npearce.me/) - クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
@@ -1437,6 +1440,7 @@ Awesome Mac
 * [Launchy](https://apple.co/3PLI2AH) - ラジアルメニューを活用したアプリランチャー＆スイッチャー。
 * [Lazy](https://www.lazy-app.com/) - キーボード駆動のコマンドでMacから直接周囲の環境を管理。
 * [Linear Mouse](https://linearmouse.app/) - マウスを完全制御。速度、スクロール方向、ポインタータイプなどを変更可能。 [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - スタンドアロンのローカルベンガル語マルチモーダルメディアエージェント：STT、TTS、音声/動画編集、スライドショー、トーキングアバター、ローカルLLMエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [Macaify](https://macaify.com) - ChatGPTの高速利用、軽量、クリーン、キーボードファースト。 ![Freeware][Freeware Icon]
 * [Mac Mouse Fix](https://www.mousefix.org/) - マウスをより快適にするシンプルな方法。 [![Open-Source Software][OSS Icon]](https://github.com/noah-nuebling/mac-mouse-fix) ![Freeware][Freeware Icon]
 * [Memo Widget](https://sindresorhus.com/memo-widget) - デスクトップ上の付箋。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)

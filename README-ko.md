@@ -413,6 +413,7 @@ Awesome Mac
 * [LINQPad](https://www.linqpad.net/) - 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드. ![Freeware][Freeware Icon]
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - 앱 번역 분석 및 편집.
 * [Loupe](https://github.com/smughead/Loupe) - AI 에이전트 준비 출력을 생성하는 접근성 검사기. [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - 독립 실행형 로컬 벵갈어 멀티모달 미디어 에이전트: STT, TTS, 오디오/비디오 편집, 슬라이드쇼, 토킹 아바타 및 로컬 LLM 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [Medio](https://github.com/nuance-dev/medio) - 네이티브 경량 텍스트 diff 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 반응형 이메일 제작 도구. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
@@ -773,6 +774,7 @@ Awesome Mac
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 음악과 오디오 제작을 위한 전문가용 디지털 오디오 워크스테이션. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 단어별 글로우 효과를 지원하는 동기화 가사 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - 독립 실행형 로컬 벵갈어 멀티모달 미디어 에이전트: STT, TTS, 오디오/비디오 편집, 슬라이드쇼, 토킹 아바타 및 로컬 LLM 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 영화와 영상 콘텐츠를 검색하고 스트리밍하거나 오프라인 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Natron](https://natrongithub.github.io/) - 오픈 소스 노드 기반 합성 도구. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
@@ -1034,6 +1036,7 @@ Awesome Mac
 * [iCMD](https://icmd.app) - 전역 퍼지 메뉴 검색과 Vim 스타일 탐색을 제공하는 도구.
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
+* [Mac-devi](https://github.com/umd81568-lab/Mac-devi) - 독립 실행형 로컬 벵갈어 멀티모달 미디어 에이전트: STT, TTS, 오디오/비디오 편집, 슬라이드쇼, 토킹 아바타 및 로컬 LLM 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/umd81568-lab/Mac-devi)
 * [Magic Switch](https://magic-switch.com/) - 여러 Mac 사이에서 Magic Keyboard, Mouse, Trackpad를 전환하는 도구.
 * [Metrune](https://treafree.github.io/Metrune/ko/) - 작업, AI 코딩, GitHub 활동, 기기 이벤트, 배지, 리포트를 MacBook 노치에 모으는 로컬 우선 집중 작업 공간. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 여러 AI 서비스를 한곳에서 쓰는 채팅 클라이언트.
